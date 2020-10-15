@@ -5,14 +5,20 @@ Clone da Interface do Google usando apenas HTML/CSS | Google Interface clone usi
 
 Uso HTML/CSS sem nenhum uso de framework/library | Use HTML / CSS without any use of framework / library
 
-## Como foi desenvolvido | How it was developed::
+## Como foi desenvolvido | How it was developed:
 
-Através de um vídeo disponibilizado no canal da rocketseat, pude acompanhar o passo a passo e fazer alterações que fossem de meu interesse
+Através de um vídeo disponibilizado no canal da rocketseat, pude acompanhar o passo a passo e fazer alterações que fossem de meu interesse!<br>
+Through a video available on the rocketseat channel, I was able to follow the step by step and make changes that were of interest to me!
 
-## Versão Mobile | Version Mobile
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Versão Mobile | Version Mobile:
+<img src="./public/images/uiclonemobile.PNG">
 
-Please make sure to update tests as appropriate.
+## Versão Desktop | Version Desktop:
+<img src="./public/images/uiclonedesktop.PNG">
+
+## Agradecimentos | Thanks:
+[Rocketseat](https://www.youtube.com/watch?v=KgjzE1Sxtq0)<br>
+[Guilhermerodz](https://github.com/guilhermerodz)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
