@@ -19,6 +19,3 @@ Through a video available on the rocketseat channel, I was able to follow the st
 ## Agradecimentos | Thanks:
 [Rocketseat](https://www.youtube.com/watch?v=KgjzE1Sxtq0)<br>
 [Guilhermerodz](https://github.com/guilhermerodz)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
